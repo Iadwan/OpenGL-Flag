@@ -3,4 +3,4 @@
 
 # OpenGL Project
 
-![OpenGL Triangle](triangles.png)
+![Flag](Flag.png)
