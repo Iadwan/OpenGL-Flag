@@ -1,6 +1,6 @@
 # OpenGL
 
 
-# OpenGL Project
 
+# Start with Flag Rendering
 ![Flag](Flag.png)
